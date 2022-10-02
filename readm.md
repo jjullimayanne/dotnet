@@ -1,0 +1,1 @@
+## Atividades da aula de Lógica de programação 
